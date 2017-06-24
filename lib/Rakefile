@@ -1,4 +1,3 @@
-
 #!/usr/bin/ruby -wKU
 
 task :default => :run
